@@ -1,0 +1,2 @@
+# PedidoPizzaria
+Aplicação para pizzaria
